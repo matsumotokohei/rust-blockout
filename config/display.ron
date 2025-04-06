@@ -1,0 +1,4 @@
+(
+  title: "rust-blockout",
+  dimensions: Some((500, 500)),
+)
